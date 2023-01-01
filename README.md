@@ -1,3 +1,6 @@
+> **Warning** 
+> This project is not longer maintaned. You are welcome to fork it and publish a new version in NPM!
+
 # React Script Tag 💉
 
 This react component is intended to be a drop-in replacement for the `<script>`
